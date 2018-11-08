@@ -16,6 +16,7 @@ Vue.use(Mint);
 
 //引入mui的样式
 import "./assets/vendor/mui/dist/css/mui.css";
+import "./assets/css/common.css"
 
 /* eslint-disable no-new */
 new Vue({

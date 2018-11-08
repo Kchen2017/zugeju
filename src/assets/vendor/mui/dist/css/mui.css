@@ -5018,6 +5018,15 @@ body > .mui-progressbar
 
     src: url('../fonts/mui.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: Muiicons;
+    font-weight: normal;
+    font-style: normal;
+
+    src: url('../fonts/iconfont.ttf') format('truetype');
+}
+
 .mui-icon
 {
     font-family: Muiicons;
@@ -5477,6 +5486,22 @@ body > .mui-progressbar
 {
     content: '\e588';
 }
+
+.icon-huodong:before { content: "\e61f"; }
+
+.icon-wode:before { content: "\e620"; }
+
+.icon-wode1:before { content: "\e638"; }
+
+.icon-wode2:before { content: "\e67a"; }
+
+.icon-huodong1:before { content: "\e605"; }
+
+.icon-shouye:before { content: "\e611"; }
+
+.icon-lingquanzhongxin:before { content: "\e8e7"; }
+
+.icon-iconfontzhizuobiaozhun16:before { content: "\e60f"; }
 
 .mui-fullscreen
 {
